@@ -20,7 +20,7 @@ AndroSpy Project aims to most powerful-stable-useful open source Android RAT.
 # [+]Version Update 2 (first update as version)  
 +Switching to ``System.Net.Sockets.NetworkStream`` from directly ``System.Net.Sockets.Socket`` Communitation. This change was more stable and fast. And Project has cleaner code.  
 +Added Wifi,Bluetooth,Mobil Data etc. into  the Phone Infos form.  
-+Added screen brightness option into the settings panel.
++Added screen brightness option into the settings panel.  
 +Some important updates-changes.
 
 # [+]Update 1.3 (First stable Update)  
